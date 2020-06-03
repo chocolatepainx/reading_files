@@ -1,4 +1,4 @@
-# Reading files
+## Reading files
 
 This is my first file that really got me intrigued with python. Hooked ever since. Something easy to learn how to read files.
 
